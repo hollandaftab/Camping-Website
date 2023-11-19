@@ -1,0 +1,14 @@
+{
+  "name": "responsive-camping-website-fd50257e59ec4ce22eef662622a3cf1a95819ee5",
+  "version": "1.0.0",
+  "description": "- Responsive Camping Website Design Using HTML CSS & JavaScript - Contains animations on images with Gsap. - Developed first with the Mobile First methodology, then for desktop. - Compatible with all mobile devices and with a beautiful and pleasant user interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
